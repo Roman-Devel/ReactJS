@@ -8,3 +8,7 @@
 .item a {
 	color: #fff;
 }
+
+.item a.active {
+	color: gold;
+}
