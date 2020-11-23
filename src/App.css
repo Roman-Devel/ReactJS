@@ -19,3 +19,9 @@ a:hover {
 	width: 1200px;
 	margin: 30px auto;
 }
+
+.app-wrapper-content {
+	grid-area: c;
+	border: 1px solid black;
+	padding: 10px;
+}
