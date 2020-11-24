@@ -10,7 +10,7 @@ const MyPost = (props) => {
             {props.message}
             <div>...Like: {props.countLikes}</div>
         </div>
-    );
+    )
 }
 
 export default MyPost;

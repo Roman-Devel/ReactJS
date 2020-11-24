@@ -8,7 +8,7 @@ const MyPosts = () => {
             <MyPost message='Hi! How are you?' countLikes='17'/>
             <MyPost message="It's my first post" countLikes='10'/>
         </div>
-    );
+    )
 }
 
 export default MyPosts;
